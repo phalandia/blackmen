@@ -1,3 +1,16 @@
 body {
-  background: linear-gradient(45deg, red, orange, yellow, green, blue, indigo, violet);
-}
+    background: linear-gradient(45deg, red, orange, yellow, green, blue, indigo, violet);
+  }
+
+  #p1 {
+    color: white; background-color: blueviolet;
+  }
+  #p2 {
+    background-color: black; color: chartreuse;
+  }
+  #p3 {
+    background-color: black; color: chartreuse;
+  }
+  #p4 {
+    background-color: black; color: chartreuse;
+  }
